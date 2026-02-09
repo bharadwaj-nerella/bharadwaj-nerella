@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working at **Innovapost**
 
+- 🌱 I’m currently learning **advanced Kubernetes patterns, GitOps workflows, and cloud-native observability.**
+
 - 👯 I’m looking to collaborate on **cloud-native systems, Kubernetes platforms, and reliable CI/CD workflows.**
 
 - 👨‍💻 All of my projects are available at [www.github.com/bharadwaj-nerella](www.github.com/bharadwaj-nerella)
 
-- 💬 Ask me about **cloud-native systems, Kubernetes platforms, and reliable CI/CD workflows.**
+- 💬 Ask me about **platform engineering, infrastructure as code, and scalable CI/CD.**
 
 - 📫 How to reach me **bharadwajn111@gmail.com**
 
